@@ -8,6 +8,8 @@ The **CameraLibrary** provides the following features:
 3. **accessPhoto** - Retrieves the captured photo from storage.
 4. **authenticateUser** - Uses the device's built-in biometric authentication to verify the user.
 
+> **Note:** The `.aar` file is included in the same folder of this repository. You can directly add it to your project.
+
 ## Project Structure
 
 The project is divided into two parts:
@@ -23,5 +25,9 @@ The demo app is a simple Android application that showcases how to use the Camer
 - Capture and save a photo using `takePhoto`.
 - Retrieve and display the app saved photos on the device.
 - Authenticate a user using the device's biometrics with `authenticateUser`.
+
+
+
+
 
 
