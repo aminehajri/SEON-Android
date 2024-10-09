@@ -1,7 +1,4 @@
-# Android SDK
-## Features
-
-The **CameraLibrary** provides the following features:
+This SDK provides the following features:
 
 1. **startCamera** - Initializes the camera and starts a live preview for capturing images.
 2. **takePhoto** - Captures a photo and saves it to the device storage.
