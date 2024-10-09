@@ -20,7 +20,7 @@ The demo app is a simple Android application that showcases how to use the Camer
 
 - Start and display the camera preview using `startCamera`.
 - Capture and save a photo using `takePhoto`.
-- Retrieve and display the app saved photos on the device.
+- Retrieve and display the app saved photos on the device `accessPhotos`.
 - Authenticate a user using the device's biometrics with `authenticateUser`.
 
 
